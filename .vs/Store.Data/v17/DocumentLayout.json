@@ -3,16 +3,12 @@
   "WorkspaceRootPath": "D:\\Backend\\week19\\Store.Data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{0E5C2291-ED6C-4DC5-9805-0C57DAB6324E}|Store.Repository\\Store.Repository.csproj|d:\\backend\\week19\\store.data\\store.repository\\specification\\productspecs\\productwithspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E5C2291-ED6C-4DC5-9805-0C57DAB6324E}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\productspecs\\productwithspecifications.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|d:\\backend\\week19\\store.data\\store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{0E5C2291-ED6C-4DC5-9805-0C57DAB6324E}|Store.Repository\\Store.Repository.csproj|d:\\backend\\week19\\store.data\\store.repository\\specification\\productspecs\\productwithcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E5C2291-ED6C-4DC5-9805-0C57DAB6324E}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\productspecs\\productwithcountspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E5C2291-ED6C-4DC5-9805-0C57DAB6324E}|Store.Repository\\Store.Repository.csproj|d:\\backend\\week19\\store.data\\store.repository\\specification\\productspecs\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E5C2291-ED6C-4DC5-9805-0C57DAB6324E}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\specification\\productspecs\\productspecification.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|d:\\backend\\week19\\store.data\\store.web\\helper\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\helper\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -22,45 +18,32 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 1,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "ProductWithCountSpecification.cs",
-              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductWithCountSpecification.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\ProductSpecs\\ProductWithCountSpecification.cs",
-              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductWithCountSpecification.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\ProductSpecs\\ProductWithCountSpecification.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA8AAAASAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T16:19:35.04Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "ProductWithSpecifications.cs",
-              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecifications.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecifications.cs",
-              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecifications.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\ProductSpecs\\ProductWithSpecifications.cs",
-              "ViewState": "AQIAAAMAAAAAAAAAAAAAAA4AAAB6AAAA",
+              "Title": "productsController.cs",
+              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Controllers\\productsController.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Controllers\\productsController.cs",
+              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Controllers\\productsController.cs",
+              "RelativeToolTip": "Store.Web\\Controllers\\productsController.cs",
+              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBwAAAAQAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T16:14:08.399Z",
+              "WhenOpened": "2024-09-30T18:59:38.425Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ProductSpecification.cs",
-              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
-              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
-              "RelativeToolTip": "Store.Repository\\Specification\\ProductSpecs\\ProductSpecification.cs",
-              "ViewState": "AQIAAA0AAAAAAAAAAAA5wB0AAAA1AAAA",
+              "DocumentIndex": 1,
+              "Title": "CacheAttribute.cs",
+              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Helper\\CacheAttribute.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Helper\\CacheAttribute.cs",
+              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Helper\\CacheAttribute.cs",
+              "RelativeToolTip": "Store.Web\\Helper\\CacheAttribute.cs",
+              "ViewState": "AQIAABsAAAAAAAAAAAAYwCgAAAB/AAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-28T15:10:43.587Z",
+              "WhenOpened": "2024-09-30T19:00:06.905Z",
               "EditorCaption": ""
             }
           ]
