@@ -10,3 +10,4 @@ D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\refint\Store.Data.dll
 D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.pdb
 D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\ref\Store.Data.dll
 D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.csproj.AssemblyReference.cache
+D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.sourcelink.json

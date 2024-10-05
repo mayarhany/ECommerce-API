@@ -3,12 +3,24 @@
   "WorkspaceRootPath": "D:\\Backend\\week19\\Store.Data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|d:\\backend\\week19\\store.data\\store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|d:\\backend\\week19\\store.data\\store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|d:\\backend\\week19\\store.data\\store.web\\helper\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\helper\\cacheattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|d:\\backend\\week19\\store.data\\store.web\\extensions\\identityserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\extensions\\identityserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|d:\\backend\\week19\\store.data\\store.web\\helper\\applayseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\helper\\applayseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E5C2291-ED6C-4DC5-9805-0C57DAB6324E}|Store.Repository\\Store.Repository.csproj|d:\\backend\\week19\\store.data\\store.repository\\storeidentitycontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E5C2291-ED6C-4DC5-9805-0C57DAB6324E}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\storeidentitycontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{69029142-8B4C-4626-BD83-018FBE1BF750}|Store.Data\\Store.Data.csproj|d:\\backend\\week19\\store.data\\store.data\\entities\\identityentities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69029142-8B4C-4626-BD83-018FBE1BF750}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\identityentities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -18,32 +30,71 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "productsController.cs",
-              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Controllers\\productsController.cs",
-              "RelativeDocumentMoniker": "Store.Web\\Controllers\\productsController.cs",
-              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Controllers\\productsController.cs",
-              "RelativeToolTip": "Store.Web\\Controllers\\productsController.cs",
-              "ViewState": "AQIAAA8AAAAAAAAAAAAAwBwAAAAQAAAA",
+              "DocumentIndex": 2,
+              "Title": "ApplaySeeding.cs",
+              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Helper\\ApplaySeeding.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Helper\\ApplaySeeding.cs",
+              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Helper\\ApplaySeeding.cs",
+              "RelativeToolTip": "Store.Web\\Helper\\ApplaySeeding.cs",
+              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBkAAABOAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T18:59:38.425Z",
+              "WhenOpened": "2024-10-05T16:27:46.466Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "StoreIdentityContextSeed.cs",
+              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Repository\\StoreIdentityContextSeed.cs",
+              "RelativeDocumentMoniker": "Store.Repository\\StoreIdentityContextSeed.cs",
+              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Repository\\StoreIdentityContextSeed.cs",
+              "RelativeToolTip": "Store.Repository\\StoreIdentityContextSeed.cs",
+              "ViewState": "AQIAAAkAAAAAAAAAAAAQwCAAAABBAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T16:07:08.065Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Program.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Program.cs",
+              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Program.cs",
+              "RelativeToolTip": "Store.Web\\Program.cs",
+              "ViewState": "AQIAACIAAAAAAAAAAAAQwC0AAAAwAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T15:14:15.482Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
-              "Title": "CacheAttribute.cs",
-              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Helper\\CacheAttribute.cs",
-              "RelativeDocumentMoniker": "Store.Web\\Helper\\CacheAttribute.cs",
-              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Helper\\CacheAttribute.cs",
-              "RelativeToolTip": "Store.Web\\Helper\\CacheAttribute.cs",
-              "ViewState": "AQIAABsAAAAAAAAAAAAYwCgAAAB/AAAA",
+              "Title": "IdentityServiceExtension.cs",
+              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Extensions\\IdentityServiceExtension.cs",
+              "RelativeDocumentMoniker": "Store.Web\\Extensions\\IdentityServiceExtension.cs",
+              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Extensions\\IdentityServiceExtension.cs",
+              "RelativeToolTip": "Store.Web\\Extensions\\IdentityServiceExtension.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAApAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-30T19:00:06.905Z",
+              "WhenOpened": "2024-10-05T15:06:48.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AppUser.cs",
+              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Data\\Entities\\IdentityEntities\\AppUser.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entities\\IdentityEntities\\AppUser.cs",
+              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Data\\Entities\\IdentityEntities\\AppUser.cs",
+              "RelativeToolTip": "Store.Data\\Entities\\IdentityEntities\\AppUser.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-05T14:55:04.827Z",
               "EditorCaption": ""
             }
           ]

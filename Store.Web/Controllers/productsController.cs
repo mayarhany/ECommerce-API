@@ -7,9 +7,7 @@ using Store.Web.Helper;
 
 namespace Store.Web.Controllers
 {
-    [Route("api/[controller]/[action]")]
-    [ApiController]
-    public class productsController : ControllerBase
+    public class productsController : BaseController
     {
         private readonly IProductService _productService;
 
