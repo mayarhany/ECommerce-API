@@ -3,24 +3,16 @@
   "WorkspaceRootPath": "D:\\Backend\\week19\\Store.Data\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|d:\\backend\\week19\\store.data\\store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69029142-8B4C-4626-BD83-018FBE1BF750}|Store.Data\\Store.Data.csproj|d:\\backend\\week19\\store.data\\store.data\\entities\\orderentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69029142-8B4C-4626-BD83-018FBE1BF750}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|d:\\backend\\week19\\store.data\\store.web\\extensions\\identityserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\extensions\\identityserviceextension.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69029142-8B4C-4626-BD83-018FBE1BF750}|Store.Data\\Store.Data.csproj|d:\\backend\\week19\\store.data\\store.data\\entities\\orderentities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69029142-8B4C-4626-BD83-018FBE1BF750}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\orderitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|d:\\backend\\week19\\store.data\\store.web\\helper\\applayseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{9F4AC3C2-A297-43BD-AD33-DC63DA52F3F5}|Store.Web\\Store.Web.csproj|solutionrelative:store.web\\helper\\applayseeding.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{0E5C2291-ED6C-4DC5-9805-0C57DAB6324E}|Store.Repository\\Store.Repository.csproj|d:\\backend\\week19\\store.data\\store.repository\\storeidentitycontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{0E5C2291-ED6C-4DC5-9805-0C57DAB6324E}|Store.Repository\\Store.Repository.csproj|solutionrelative:store.repository\\storeidentitycontextseed.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{69029142-8B4C-4626-BD83-018FBE1BF750}|Store.Data\\Store.Data.csproj|d:\\backend\\week19\\store.data\\store.data\\entities\\identityentities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{69029142-8B4C-4626-BD83-018FBE1BF750}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\identityentities\\appuser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{69029142-8B4C-4626-BD83-018FBE1BF750}|Store.Data\\Store.Data.csproj|d:\\backend\\week19\\store.data\\store.data\\entities\\orderentities\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{69029142-8B4C-4626-BD83-018FBE1BF750}|Store.Data\\Store.Data.csproj|solutionrelative:store.data\\entities\\orderentities\\productitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -34,67 +26,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "ApplaySeeding.cs",
-              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Helper\\ApplaySeeding.cs",
-              "RelativeDocumentMoniker": "Store.Web\\Helper\\ApplaySeeding.cs",
-              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Helper\\ApplaySeeding.cs",
-              "RelativeToolTip": "Store.Web\\Helper\\ApplaySeeding.cs",
-              "ViewState": "AQIAAAwAAAAAAAAAAAAQwBkAAABOAAAA",
+              "DocumentIndex": 1,
+              "Title": "OrderItem.cs",
+              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Data\\Entities\\OrderEntities\\OrderItem.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\OrderItem.cs",
+              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Data\\Entities\\OrderEntities\\OrderItem.cs",
+              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\OrderItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAwAAAAtAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T16:27:46.466Z",
+              "WhenOpened": "2024-10-09T00:42:10.178Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "StoreIdentityContextSeed.cs",
-              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Repository\\StoreIdentityContextSeed.cs",
-              "RelativeDocumentMoniker": "Store.Repository\\StoreIdentityContextSeed.cs",
-              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Repository\\StoreIdentityContextSeed.cs",
-              "RelativeToolTip": "Store.Repository\\StoreIdentityContextSeed.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAQwCAAAABBAAAA",
+              "DocumentIndex": 2,
+              "Title": "ProductItem.cs",
+              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Data\\Entities\\OrderEntities\\ProductItem.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\ProductItem.cs",
+              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Data\\Entities\\OrderEntities\\ProductItem.cs",
+              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\ProductItem.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAgAAAAcAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T16:07:08.065Z",
+              "WhenOpened": "2024-10-09T00:40:54.394Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 0,
-              "Title": "Program.cs",
-              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Program.cs",
-              "RelativeDocumentMoniker": "Store.Web\\Program.cs",
-              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Program.cs",
-              "RelativeToolTip": "Store.Web\\Program.cs",
-              "ViewState": "AQIAACIAAAAAAAAAAAAQwC0AAAAwAAAA",
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Data\\Entities\\OrderEntities\\Order.cs",
+              "RelativeDocumentMoniker": "Store.Data\\Entities\\OrderEntities\\Order.cs",
+              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Data\\Entities\\OrderEntities\\Order.cs",
+              "RelativeToolTip": "Store.Data\\Entities\\OrderEntities\\Order.cs",
+              "ViewState": "AQIAAAgAAAAAAAAAAAAxwBQAAAAuAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T15:14:15.482Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "IdentityServiceExtension.cs",
-              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Extensions\\IdentityServiceExtension.cs",
-              "RelativeDocumentMoniker": "Store.Web\\Extensions\\IdentityServiceExtension.cs",
-              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Web\\Extensions\\IdentityServiceExtension.cs",
-              "RelativeToolTip": "Store.Web\\Extensions\\IdentityServiceExtension.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAuwAgAAAApAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T15:06:48.239Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "AppUser.cs",
-              "DocumentMoniker": "D:\\Backend\\week19\\Store.Data\\Store.Data\\Entities\\IdentityEntities\\AppUser.cs",
-              "RelativeDocumentMoniker": "Store.Data\\Entities\\IdentityEntities\\AppUser.cs",
-              "ToolTip": "D:\\Backend\\week19\\Store.Data\\Store.Data\\Entities\\IdentityEntities\\AppUser.cs",
-              "RelativeToolTip": "Store.Data\\Entities\\IdentityEntities\\AppUser.cs",
-              "ViewState": "AQIAAAAAAAAAAAAAAAAAAA0AAAAWAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-10-05T14:55:04.827Z",
+              "WhenOpened": "2024-10-09T00:28:25.917Z",
               "EditorCaption": ""
             }
           ]

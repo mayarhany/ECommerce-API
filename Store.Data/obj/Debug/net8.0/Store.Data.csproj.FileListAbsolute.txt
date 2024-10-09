@@ -1,13 +1,13 @@
 D:\Backend\week19\Store.Data\Store.Data\bin\Debug\net8.0\Store.Data.deps.json
 D:\Backend\week19\Store.Data\Store.Data\bin\Debug\net8.0\Store.Data.dll
 D:\Backend\week19\Store.Data\Store.Data\bin\Debug\net8.0\Store.Data.pdb
+D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.csproj.AssemblyReference.cache
 D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.GeneratedMSBuildEditorConfig.editorconfig
 D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfoInputs.cache
 D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.AssemblyInfo.cs
 D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.csproj.CoreCompileInputs.cache
+D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.sourcelink.json
 D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.dll
 D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\refint\Store.Data.dll
 D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.pdb
 D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\ref\Store.Data.dll
-D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.csproj.AssemblyReference.cache
-D:\Backend\week19\Store.Data\Store.Data\obj\Debug\net8.0\Store.Data.sourcelink.json
