@@ -39,7 +39,6 @@ D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.IdentityModel.
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.IdentityModel.Tokens.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.OpenApi.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.SqlServer.Server.dll
-D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\Microsoft.Win32.SystemEvents.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\Mono.TextTemplating.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\Pipelines.Sockets.Unofficial.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\StackExchange.Redis.dll
@@ -53,14 +52,12 @@ D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\System.Composition.Hosti
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\System.Composition.Runtime.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\System.Composition.TypedParts.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\System.Configuration.ConfigurationManager.dll
-D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\System.Drawing.Common.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\System.IdentityModel.Tokens.Jwt.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\System.Memory.Data.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\System.Runtime.Caching.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\System.Security.Cryptography.ProtectedData.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\System.Security.Permissions.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\System.Text.Json.dll
-D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\System.Windows.Extensions.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\cs\Microsoft.CodeAnalysis.resources.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\de\Microsoft.CodeAnalysis.resources.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\es\Microsoft.CodeAnalysis.resources.dll
@@ -119,12 +116,7 @@ D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\runtimes\win-arm\native\
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\runtimes\win-arm64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\runtimes\win-x64\native\Microsoft.Data.SqlClient.SNI.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\runtimes\win-x86\native\Microsoft.Data.SqlClient.SNI.dll
-D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\Microsoft.Win32.SystemEvents.dll
-D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\runtimes\unix\lib\net6.0\System.Drawing.Common.dll
-D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Drawing.Common.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Runtime.Caching.dll
-D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Security.Cryptography.ProtectedData.dll
-D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\runtimes\win\lib\net6.0\System.Windows.Extensions.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\Store.Data.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\Store.Repository.dll
 D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\Store.Service.dll
@@ -153,3 +145,5 @@ D:\Backend\week19\Store.Data\Store.Web\obj\Debug\net8.0\refint\Store.Web.dll
 D:\Backend\week19\Store.Data\Store.Web\obj\Debug\net8.0\Store.Web.pdb
 D:\Backend\week19\Store.Data\Store.Web\obj\Debug\net8.0\Store.Web.genruntimeconfig.cache
 D:\Backend\week19\Store.Data\Store.Web\obj\Debug\net8.0\ref\Store.Web.dll
+D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\Newtonsoft.Json.dll
+D:\Backend\week19\Store.Data\Store.Web\bin\Debug\net8.0\Stripe.net.dll
