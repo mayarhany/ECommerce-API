@@ -91,7 +91,7 @@ namespace Store.Service.Services.PaymentService
             return basket;
         }
 
-        public async Task<OrderDetailsDto> UpdateOrderDetailsFailed(string paymentIntentId)
+        public async Task<OrderDetailsDto> UpdateOrderPaymentFailed(string paymentIntentId)
         {
             var specs = new OrderWithPaymentIntentSpecification(paymentIntentId);
 
@@ -111,7 +111,7 @@ namespace Store.Service.Services.PaymentService
             return mappedOrder;
         }
 
-        public async Task<OrderDetailsDto> UpdateOrderDetailsSucceeded(string paymentIntentId)
+        public async Task<OrderDetailsDto> UpdateOrderPaymentSucceeded(string paymentIntentId)
         {
             var specs = new OrderWithPaymentIntentSpecification(paymentIntentId);
 

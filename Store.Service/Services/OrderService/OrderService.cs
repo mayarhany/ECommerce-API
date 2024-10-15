@@ -5,6 +5,7 @@ using Store.Repository.Interfaces;
 using Store.Repository.Specification.OrderSpecs;
 using Store.Service.Services.BasketService;
 using Store.Service.Services.OrderService.Dtos;
+using Store.Service.Services.PaymentService;
 using System;
 using System.Collections.Generic;
 using System.Linq;
@@ -18,15 +19,18 @@ namespace Store.Service.Services.OrderService
         private readonly IBasketService _basketService;
         private readonly IUnitOfWork _unitOfWork;
         private readonly IMapper _mapper;
+        private readonly IPaymenyService _paymenyService;
 
         public OrderService(
             IBasketService basketService,
             IUnitOfWork unitOfWork,
-            IMapper mapper)
+            IMapper mapper,
+            IPaymenyService paymenyService)
         {
             _basketService = basketService;
             _unitOfWork = unitOfWork;
             _mapper = mapper;
+            _paymenyService = paymenyService;
         }
         public async Task<OrderDetailsDto> CreateOrderAsync(OrderDto input)
         {
@@ -77,7 +81,12 @@ namespace Store.Service.Services.OrderService
             #endregion
 
             #region To Do => Payment
+            var specs = new OrderWithPaymentIntentSpecification(basket.PaymentIntentId);
 
+            var exixtingorder = await _unitOfWork.Repository<Order, Guid>().GetWithSpecificationByIdAsync(specs);
+
+            if (exixtingorder is null)
+                await _paymenyService.CreatOrUpdatePaymentIntent(basket);
             #endregion
 
             #region Create Order
@@ -92,16 +101,24 @@ namespace Store.Service.Services.OrderService
                 BuyerEmail = input.BuyerEmail,
                 BasketId = input.BasketId,
                 OrderItems  = mappedOrderItems,
-                SubTotal = subtotal
+                SubTotal = subtotal,
+                PaymentIntentId = basket.PaymentIntentId
             };
 
-            await _unitOfWork.Repository<Order, Guid>().AddAsync(order);
+            try
+            {
+                await _unitOfWork.Repository<Order, Guid>().AddAsync(order);
 
-            await _unitOfWork.CompleteAsync();
+                await _unitOfWork.CompleteAsync();
 
-            var mappedOrder = _mapper.Map<OrderDetailsDto>(order);
+                var mappedOrder = _mapper.Map<OrderDetailsDto>(order);
 
-            return mappedOrder;
+                return mappedOrder;
+            }
+            catch (Exception ex)
+            {
+                throw new Exception(ex.Message);
+            }
             #endregion
         }
 

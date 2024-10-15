@@ -12,7 +12,7 @@ namespace Store.Service.Services.PaymentService
     public interface IPaymenyService
     {
         Task<CustomerBasketDto> CreatOrUpdatePaymentIntent(CustomerBasketDto input);
-        Task<OrderDetailsDto> UpdateOrderDetailsSucceeded(string paymentIntentId);
-        Task<OrderDetailsDto> UpdateOrderDetailsFailed(string paymentIntentId);
+        Task<OrderDetailsDto> UpdateOrderPaymentSucceeded(string paymentIntentId);
+        Task<OrderDetailsDto> UpdateOrderPaymentFailed(string paymentIntentId);
     }
 }
